@@ -1,0 +1,14 @@
+form {
+    padding: 15px;
+    direction: rtl;
+    text-align: right;
+
+    .form-check {
+        display: flex;
+        align-items: center;
+        input {
+            position: unset;
+            margin: 10px 0 0 10px;
+        }
+    }
+}
